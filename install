@@ -14,7 +14,7 @@ then
   sudo cp reset_gems "${local_bin}"
 
   # copy initial .codio file
-  cp codio_init" "${workspace_dir}/.codio"
+  cp codio_init "${workspace_dir}/.codio"
   
   # reset the gems on this box
   reset_gems
