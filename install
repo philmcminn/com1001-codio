@@ -19,9 +19,6 @@ then
   # reset the gems on this box
   reset_gems
 
-  # now self-destruct!
-  rm -rf .
-
   echo ""
   echo "Everything successfully installed."
 else
